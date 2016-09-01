@@ -62,7 +62,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n<ul>\n<li><a href=\"https://github.com/revue/revue\">Redux binding for Vue</a><ul>\n<li>This week I&apos;m staying at a hostel in Austin, TX. I was sitting in the kitchen reading up on some of the updates to Vue when someone asked, &quot;Is that github...?&quot; We shot the shit for a while. He told me he is working at a nonprofit in San Diego who has selected Vue as their platform. I did a little research on state management in Vue. Small world out there.</li>\n</ul>\n</li>\n</ul>\n"
+      "html": "\n<ul>\n<li><a href=\"https://github.com/revue/revue\">Redux binding for Vue</a>\nThis week I&apos;m staying at a hostel in Austin, TX. I was sitting in the kitchen reading up on some of the updates to Vue when someone asked, &quot;Is that github...?&quot; We shot the shit for a while. He told me he is working at a nonprofit in San Diego who has selected Vue as their platform. I did a little research on state management in Vue. Small world out there.</li>\n</ul>\n"
     },
     {
       "component": "footer",
